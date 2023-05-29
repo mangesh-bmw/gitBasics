@@ -1,4 +1,4 @@
-#git commands
+#git commands details
 
 1. git init
 2. git clone "repo url"
